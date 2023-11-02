@@ -5,6 +5,6 @@
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind)](https://skillicons.dev)
 
 ## ✅ Certifications
-![](https://unofficial-ipa-exam-badges.vercel.app/en/icon/db/2019/spring)
-![](https://unofficial-ipa-exam-badges.vercel.app/en/icon/sa/2021/spring)
-![](https://unofficial-ipa-exam-badges.vercel.app/en/icon/pm/2021/autumn)
+![](https://unofficial-ipa-exam-badges.vercel.app/ja/card/db/2019/spring)
+![](https://unofficial-ipa-exam-badges.vercel.app/ja/card/sa/2021/spring)
+![](https://unofficial-ipa-exam-badges.vercel.app/ja/card/pm/2021/autumn)
