@@ -1,7 +1,7 @@
 ## 💬 Languages
 [![My Skills](https://skillicons.dev/icons?i=ts,cs)](https://skillicons.dev)
 
-## 🛠️　Frameworks
+## 🛠️ Frameworks
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind)](https://skillicons.dev)
 
 ## ✅ Certifications
