@@ -17,5 +17,5 @@
 [Japan Information Technology Engineers Examination Center (JITEC)](https://www.ipa.go.jp/shiken/index.html)
 
 [<img src="https://unofficial-ipa-exam-badges.vercel.app/ja/icon/db/2019/spring" width=96/>](https://github.com/kedama-t/Unofficial-IPA-Exam-Badges)
-[<img src="https://unofficial-ipa-exam-badges.vercel.app/ja/icon/sa/2019/spring" width=96/>](https://github.com/kedama-t/Unofficial-IPA-Exam-Badges)
+[<img src="https://unofficial-ipa-exam-badges.vercel.app/ja/icon/sa/2019/autumn" width=96/>](https://github.com/kedama-t/Unofficial-IPA-Exam-Badges)
 [<img src="https://unofficial-ipa-exam-badges.vercel.app/ja/icon/pm/2021/autumn" width=96/>](https://github.com/kedama-t/Unofficial-IPA-Exam-Badges)
