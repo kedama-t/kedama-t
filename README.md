@@ -11,7 +11,7 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,neovim,git,github,netlify,vercel)](https://skillicons.dev)
 
 ## :satellite: Interested in...
-[![My Skills](https://skillicons.dev/icons?i=remix,pytorch,tensorflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=remix,cloudflare,pytorch,tensorflow)](https://skillicons.dev)
 
 ## :white_check_mark: Certifications
 [Japan Information Technology Engineers Examination Center (JITEC)](https://www.ipa.go.jp/shiken/index.html)
