@@ -1,5 +1,7 @@
-## :globe_with_meridians: Web App
-[YOMINA](https://yomina.app/):読書支援Webアプリ
+## :globe_with_meridians: Apps
+
+- [YOMINA](https://yomina.app/): 読書支援Webアプリ
+- [kami](https://github.com/kedama-t/kedama-t): AIエージェント用ナレッジベース
 
 ## :speech_balloon: Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
