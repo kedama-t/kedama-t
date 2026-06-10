@@ -2,6 +2,7 @@
 
 - [YOMINA](https://yomina.app/): 読書支援Webアプリ
 - [kami](https://github.com/kedama-t/kami): AIエージェント用ナレッジベース
+- [Minakata](https://github.com/kedama-t/minakata): AIエージェントが管理する自動情報収集ナレッジベース
 
 ## :speech_balloon: Languages
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
